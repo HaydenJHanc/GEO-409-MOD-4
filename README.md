@@ -4,12 +4,12 @@
 
 Map that shows land cover from NAIP imagery, paired with streams, counties, and elevation shading.
 
-![KYLandCover](KYLandCover-1.png)
+![KYLandCover](pngs/KYLandCover-1.png)
 
 [Download KY Land Cover PDF](KYLandCover.pdf)
 
 Map that shows canopy across the Univeristy of Kentucky Campus
 
-![UKTreeCanopy](UKTreeCanopy.png)
+![UKTreeCanopy](pngs/UKTreeCanopy.png)
 
 [Download UK Tree Canopy PDF](UKTreeCanopy.pdf)
