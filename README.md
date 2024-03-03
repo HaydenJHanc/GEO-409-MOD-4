@@ -1,4 +1,4 @@
-# geo409-mod4-practice
+# GEO 409 Module 4
 
 ## Practice working with Repos in Module 4 of GEO 409 during Spring 2024
 
